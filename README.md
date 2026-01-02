@@ -34,3 +34,8 @@ python akai_util_helper.py
 - Extract all samples into their original folder structure.
 - Merge all stereo pairs.
 - Delete all "junk" files (anything not a `.wav`).
+
+
+## Disclaimer
+
+This project is an independent utility and is not affiliated with, authorized, or endorsed by Akai Professional or Spectrasonics. All trademarks (AKAI, S1000, S3000) are the property of their respective owners. This tool is intended for personal use in converting legally owned backup images.
