@@ -34,9 +34,3 @@ python akai_util_helper.py
 - Extract all samples into their original folder structure.
 - Merge all stereo pairs.
 - Delete all "junk" files (anything not a `.wav`).
-
-## How it handles files
-
-- **WAV Files**: Preserved and organized by partition/volume.
-- **Metadata**: Files ending in `.P1`, `.P3`, or `.DAT` are deleted.
-- **Stereo Pairs**: The script identifies matching filenames with `-L` and `-R` suffixes, combines them, and removes the original mono files to save space.
