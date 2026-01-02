@@ -19,7 +19,7 @@ pip install pick pydub
 
 ## Usage
 
-1. Place your Akai `.iso` files (e.g., _Spectrasonics - Distorted Reality_) in the same directory as the script.
+1. Place your Akai `.iso` files in the same directory as the script.
 2. Run the tool:
 
 ```bash
