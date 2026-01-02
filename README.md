@@ -35,9 +35,7 @@ python akai_util_helper.py
 - Merge all stereo pairs.
 - Delete all "junk" files (anything not a `.wav`).
 
-## Technical Details
-
-### How it handles files
+## How it handles files
 
 - **WAV Files**: Preserved and organized by partition/volume.
 - **Metadata**: Files ending in `.P1`, `.P3`, or `.DAT` are deleted.
